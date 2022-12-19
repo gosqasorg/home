@@ -6,6 +6,33 @@ The Global Open Source Quality Assurance System (GOSQAS) was formed to promote t
  
 The Provenance system allows anyone with a device to trace the provenance and add to it using a simple website. The Seal provides a quick visual impression of the top certifications, and the Key is used to decode the entire provenance. GOSQAS is compatible with existing regulatory bodies, but not a competitor, and supports the labeling and tracking of devices and support for decentralized additive manufacturing. GOSQAS will defend marks and logos legally in order to avoid confusion but will be fiercely open in its technology. The GOSQAS system will be implemented in phases, starting with a Maker’s Mark, self-asserted quality, Global Trade Item Number, cryptographically strong provenance, and community provenance checking. This will lead to the GOSQAS seal becoming a visually recognized seal of quality worldwide.
 
+# Who We Help
+
+* Manufacturers get an easy opt-in way to make their devices more trustworthy 
+
+# Roadmap for Software and Features
+
+## Phase 1 - A Maker’s Mark, January
+GOSQAS implements a logo and a seal. A maker in an emergency prints out GOSQAS sticker that only direct the user back to the maker and assert that the devices is based on a free design, and give the URL to the design itself.  Makers treat this as a standardized “maker’s mark” because they are proud of their work. A simple website is created without crypto to track provenance of assets.
+
+## Phase 2 - Self Asserted Quality and Proveance Testing, Q1, 2023
+GOSQAS has defined a set of standard quality assurance procedures. Maker’s self assert that they have executed these procedures. There is not yet an cryptography, and all data is purely self asserted, 
+but we have made it easier for makers to print a seal. We attempt to run a small test with cottage manufactureres and buyers using provenance tracking.
+
+## Phase 3 - Encrypted Provenance, Q2, 2023
+GOSQAS now offer global trade item numbers under its “unbrand” and universal barcodes. The item now participates in the global trade identification number system. Someone may verify this number, and learn that at least the maker is a participant in the alliance. Records are now encrypted and difficult to 
+forge.
+
+## Phase 4 - Cryptographically Strong Provenance, Q3, 2023
+GOSQAS now offers cryptographically strong provenance records and an easy ability to add to the provenance records. With a seal-in-hand and access to the internet, the key holder can add to the provenance record at no cost and little expense in time. There are up to 10,000 makers and manufacturers using the GOSQAS seal.
+
+## Phase 5 - Community Provenance Checking
+Although encrypted provenance supports privacy, it is possible for a decrypted message to be presented to the community for provenance checking. That is, the community can produce a sort of rating service for the provenance quality. This is likely to detect frauds and also raise the general expectation for provenances, further increasing the overall quality.
+
+## Phase 6 - Expanding Usage
+In phase 5, the GOSQAS system is maturing and the number of users is increasing. The GOSQAS seal is a visually recognized seal of quality worldwide. GOSQAS fights against counterfeits.
+
+
 
 # Licenses
 
