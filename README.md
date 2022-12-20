@@ -47,6 +47,8 @@ Although encrypted provenance supports privacy, it is possible for a decrypted m
 ## Phase 6 - Expanding Usage, Q1, 2024
 In phase 5, the GOSQAS system is maturing and the number of users is increasing. The GOSQAS seal is a visually recognized seal of quality worldwide. GOSQAS fights against counterfeits.
 
+## Cultural Development Roadmap
+
 Concurrent to the software roadmap, we also need "social developments" which are not embodied in software. We need to develop a culture of:
 * Using standardized quality assurance tests and documenting them.
 * Sharing knowledge about how to evaluate a provenance
