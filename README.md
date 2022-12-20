@@ -44,8 +44,8 @@ GOSQAS now offers cryptographically strong provenance records and an easy abilit
 ## Phase 5 - Community Provenance Checking, Q4, 2023
 Although encrypted provenance supports privacy, it is possible for a decrypted message to be presented to the community for provenance checking. That is, the community can produce a sort of rating service for the provenance quality. This is likely to detect frauds and also raise the general expectation for provenances, further increasing the overall quality.
 
-## Phase 6 - Expanding Usage, Q1, 2024
-In phase 5, the GOSQAS system is maturing and the number of users is increasing. The GOSQAS seal is a visually recognized seal of quality worldwide. GOSQAS fights against counterfeits.
+## Phase 6 - Expanding Usage and Considering Blockchain, Q1, 2024
+In phase 5, the GOSQAS system is maturing and the number of users is increasing. The GOSQAS seal is a visually recognized seal of quality worldwide. GOSQAS fights against counterfeits. Possibly decentralization of the database becomes advantageous.
 
 ## Cultural Development Roadmap
 
