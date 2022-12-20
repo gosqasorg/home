@@ -8,9 +8,20 @@ The Provenance system allows anyone with a device to trace the provenance and ad
 
 # Who We Help
 
-* Manufacturers get an easy opt-in way to make their devices more trustworthy 
+The GOSQAS asset provenance tracking system is independent and cooperative with regulatory bodies such as the FDA. For example, GOSQAS may be used by a distributor making regulated devices to implement some of it regulatory burdern with respect to market surveillance and recall. 
+Although it can be used by a large manufacturer to internally track assets, its main goal is to empower rapid, distributed manufacture, 
+perhaps in response to natural or man-made disasters. Such manufacturers may not have control of their ingoing or outgoing supply chain.
+An open, transparent system that makes it easy for them to document their work makes it more likely to have an impact.
+
+* Manufacturers get an easy opt-in way to make their devices more trustworthy by getting identifying keys and easily documenting manufacture and test.
+* Distributers have an easy way to maintain chain-of-custody and maintenance to increase trust for buyers.
+* Buyers get an easy way to check chain-of-custody to avoid counterfeits and understand quality transparently.
+
+
 
 # Roadmap for Software and Features
+
+We intend to recruit a team of volunteer open source programmers in January, 2023, to begin implementing this roadmap.
 
 ## Phase 1 - A Maker’s Mark, January
 GOSQAS implements a logo and a seal. A maker in an emergency prints out GOSQAS sticker that only direct the user back to the maker and assert that the devices is based on a free design, and give the URL to the design itself.  Makers treat this as a standardized “maker’s mark” because they are proud of their work. A simple website is created without crypto to track provenance of assets.
@@ -32,7 +43,11 @@ Although encrypted provenance supports privacy, it is possible for a decrypted m
 ## Phase 6 - Expanding Usage
 In phase 5, the GOSQAS system is maturing and the number of users is increasing. The GOSQAS seal is a visually recognized seal of quality worldwide. GOSQAS fights against counterfeits.
 
-
+Concurrent to the software roadmap, we also need "social developments" which are not embodied in software. We need to develop a culture of:
+* Using standardized quality assurance tests and documenting them.
+* Sharing knowledge about how to evaluate a provenance
+* Developing a culture of authentiacing quality assurance tester identity.
+* Developing best practices that make fraud impractically difficult.
 
 # Licenses
 
