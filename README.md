@@ -6,6 +6,14 @@ The Global Open Source Quality Assurance System (GOSQAS) was formed to promote t
  
 The Provenance system allows anyone with a device to trace the provenance and add to it using a simple website. The Seal provides a quick visual impression of the top certifications, and the Key is used to decode the entire provenance. GOSQAS is compatible with existing regulatory bodies, but not a competitor, and supports the labeling and tracking of devices and support for decentralized additive manufacturing. GOSQAS will defend marks and logos legally in order to avoid confusion but will be fiercely open in its technology. The GOSQAS system will be implemented in phases, starting with a Maker’s Mark, self-asserted quality, Global Trade Item Number, cryptographically strong provenance, and community provenance checking. This will lead to the GOSQAS seal becoming a visually recognized seal of quality worldwide.
 
+# Drafts of Technical Papers
+
+Although very much a work in progress, we have written two long-form papers about GOSQAS and the Asset Provenance Tracking system. We invite you to read and even comment on these papers, but understand that they are rough drafts at the moment.
+1. [How the Global Open Source Quality Assurance System (GOSQAS) will Promote Global Trust in Open Source for Medical Devices and Supplies](https://docs.google.com/document/d/1CkJ3Tz7I6DO1TV4CgKxCUxyvJEqqtBEu/edit?usp=sharing&ouid=118089335094003856513&rtpof=true&sd=true) is our basic introductory document.
+1. [Provenance Tracking For Low-to-Medium Value Distributed Manufacture](https://docs.google.com/document/d/1zEo3x8z_9rtaa8uSj5YuizLrt8Tz5z_DJQiyNo9J6K8/edit?usp=sharing)
+
+
+
 # Who We Help
 
 The GOSQAS asset provenance tracking system is independent and cooperative with regulatory bodies such as the FDA. For example, GOSQAS may be used by a distributor making regulated devices to implement some of it regulatory burdern with respect to market surveillance and recall. 
