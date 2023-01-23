@@ -78,3 +78,6 @@ Freehand Graphic Art | [Creative Commons Attribution-ShareAlike 4.0 Internationa
 Diagramatic Graphic Art | [Creative Commons Attribution-ShareAlike 4.0 International License (CC-BY-SA)](https://creativecommons.org/licenses/by-sa/4.0/)
 Regulated Medical Devices | [CERN Open Hardware Licence Version 2 - Strongly Reciprocal](https://ohwr.org/cern_ohl_s_v2.txt) or [Public Invention Sunlight Regulatory Agreement (WIP)](https://github.com/PubInv/RegulatorySunlight)
 
+# Our Partners
+
+![PartnerLogos_Layout](https://user-images.githubusercontent.com/64275888/213948696-d2ef9812-9896-4d1a-bc9a-22c82ac24cfe.png)
