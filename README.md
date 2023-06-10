@@ -15,6 +15,9 @@ Although very much a work in progress, we have written two long-form papers abou
 1. [How the Global Open Source Quality Assurance System (GOSQAS) will Promote Global Trust in Open Source for Medical Devices and Supplies](https://docs.google.com/document/d/1CkJ3Tz7I6DO1TV4CgKxCUxyvJEqqtBEu/edit?usp=sharing&ouid=118089335094003856513&rtpof=true&sd=true) is our basic introductory document.
 1. [Provenance Tracking For Low-to-Medium Value Distributed Manufacture](https://docs.google.com/document/d/1zEo3x8z_9rtaa8uSj5YuizLrt8Tz5z_DJQiyNo9J6K8/edit?usp=sharing)
 
+# Functional Demo
+
+On June 8th, @devhawk (Harry Pierson) wrote a [quick-and-dirty demo](https://github.com/gosqas/gosqas-demo1) that is almost a minimum viable product (MVP). We made a brief [video screencast](https://youtu.be/E5_YQV72NyY) of this demo.
 
 
 # Who We Help
