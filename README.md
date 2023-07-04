@@ -7,7 +7,9 @@ The Global Open Source Quality Assurance System (GOSQAS) was formed to promote t
 # Functional Demo
 
 On June 8th, @devhawk (Harry Pierson) wrote a [quick-and-dirty demo](https://github.com/gosqasorg/asset-provenance-tracking) that is almost a minimum viable product (MVP). We made a brief [video screencast](https://www.youtube.com/watch?v=6FK8fXuefZQ) of this demo.
- 
+
+
+# Features
 The Provenance system allows anyone with a device to trace the provenance and add to it using a simple website. The Seal provides a quick visual impression of the top certifications, and the Key is used to decode the entire provenance. GOSQAS is compatible with existing regulatory bodies, but not a competitor, and supports the labeling and tracking of devices and support for decentralized additive manufacturing. GOSQAS will defend marks and logos legally in order to avoid confusion but will be fiercely open in its technology. The GOSQAS system will be implemented in phases, starting with a Maker’s Mark, self-asserted quality, Global Trade Item Number, cryptographically strong provenance, and community provenance checking. This will lead to the GOSQAS seal becoming a visually recognized seal of quality worldwide.
 
 You may wish to watch this video of a talk we recently delivered at FOSDEM'23 introducing the concept:
