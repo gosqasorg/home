@@ -3,6 +3,10 @@
 This is the starting place fo the GOSQAS (GAHS-kwahs) system. GOSQAS and related marks and logs are trademarks of the Global Assurance Quality Assurance System, a US partnership. All of our code is open source but we reserve all rights on our trademarks (see below.)
 
 The Global Open Source Quality Assurance System (GOSQAS) was formed to promote trust in open source medical devices and supplies. GOSQAS believes that increasing transparency around the quality and safety of these devices is necessary for global acceptance. To achieve this, GOSQAS has developed a “Trust Through Transparency'' (TTT) approach to ensure the safety and efficacy of medical devices made from open source designs. This approach includes a GOSQAS seal with QR codes for device information, Unique Device Identifiers, and a Provenance system to track the complete manufacture and transport history of the device.
+
+# Functional Demo
+
+On June 8th, @devhawk (Harry Pierson) wrote a [quick-and-dirty demo](https://github.com/gosqasorg/asset-provenance-tracking) that is almost a minimum viable product (MVP). We made a brief [video screencast](https://www.youtube.com/watch?v=6FK8fXuefZQ) of this demo.
  
 The Provenance system allows anyone with a device to trace the provenance and add to it using a simple website. The Seal provides a quick visual impression of the top certifications, and the Key is used to decode the entire provenance. GOSQAS is compatible with existing regulatory bodies, but not a competitor, and supports the labeling and tracking of devices and support for decentralized additive manufacturing. GOSQAS will defend marks and logos legally in order to avoid confusion but will be fiercely open in its technology. The GOSQAS system will be implemented in phases, starting with a Maker’s Mark, self-asserted quality, Global Trade Item Number, cryptographically strong provenance, and community provenance checking. This will lead to the GOSQAS seal becoming a visually recognized seal of quality worldwide.
 
@@ -14,10 +18,6 @@ You may wish to watch this video of a talk we recently delivered at FOSDEM'23 in
 Although very much a work in progress, we have written two long-form papers about GOSQAS and the Asset Provenance Tracking system. We invite you to read and even comment on these papers, but understand that they are rough drafts at the moment.
 1. [How the Global Open Source Quality Assurance System (GOSQAS) will Promote Global Trust in Open Source for Medical Devices and Supplies](https://docs.google.com/document/d/1CkJ3Tz7I6DO1TV4CgKxCUxyvJEqqtBEu/edit?usp=sharing&ouid=118089335094003856513&rtpof=true&sd=true) is our basic introductory document.
 1. [Provenance Tracking For Low-to-Medium Value Distributed Manufacture](https://docs.google.com/document/d/1zEo3x8z_9rtaa8uSj5YuizLrt8Tz5z_DJQiyNo9J6K8/edit?usp=sharing)
-
-# Functional Demo
-
-On June 8th, @devhawk (Harry Pierson) wrote a [quick-and-dirty demo](https://github.com/gosqas/gosqas-demo1) that is almost a minimum viable product (MVP). We made a brief [video screencast](https://www.youtube.com/watch?v=6FK8fXuefZQ) of this demo.
 
 
 # Who We Help
