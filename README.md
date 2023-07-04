@@ -37,18 +37,18 @@ An open, transparent system that makes it easy for them to document their work m
 
 We intend to recruit a team of volunteer open source programmers in January, 2023, to begin implementing this roadmap.
 
-## Phase 1 - Team Formation, Design, and A Maker’s Mark, January, 2023
+## Phase 1 - Team Formation, Design, and A Maker’s Mark, January, 2023 - DONE
 We recruit a team of open-source developers to implement a proof-of-concept asset provenance tracking system. 
 GOSQAS implements a logo and a seal.
 A maker in a a simulated emergency prints out GOSQAS sticker that only direct the user back to the maker and assert that the devices is based on a free design, and give the URL to the design itself. 
 Makers treat this as a standardized “maker’s mark” because they are proud of their work. A simple website is created without crypto to track provenance of assets.
 
-## Phase 2 - Self Asserted Quality and Provenance Testing, Q1, 2023
-GOSQAS has defined a set of standard quality assurance procedures. Makers self assert that they have executed these procedures.
+## Phase 2 - Self Asserted Quality and Provenance Testing, Q1, 2023 - DONE
+Makers self assert that they have executed these procedures.
 The development team is just beginning encryption, and all data is purely self asserted, 
 but we have made it easier for makers to print a seal. We attempt to run a small test with cottage manufacturers and buyers using provenance tracking.
 
-## Phase 3 - Encrypted Provenance, Q2, 2023
+## Phase 3 - Encrypted Provenance, Q2, 2023 - DONE(ISH)
 GOSQAS now offer global trade item numbers under its “unbrand” and universal barcodes. The item now participates in the global trade identification number system. Someone may verify this number, and learn that at least the maker is a participant in the alliance. Records are now encrypted and difficult to 
 forge.
 
