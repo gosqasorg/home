@@ -17,7 +17,7 @@ Although very much a work in progress, we have written two long-form papers abou
 
 # Functional Demo
 
-On June 8th, @devhawk (Harry Pierson) wrote a [quick-and-dirty demo](https://github.com/gosqas/gosqas-demo1) that is almost a minimum viable product (MVP). We made a brief [video screencast](https://youtu.be/E5_YQV72NyY) of this demo.
+On June 8th, @devhawk (Harry Pierson) wrote a [quick-and-dirty demo](https://github.com/gosqas/gosqas-demo1) that is almost a minimum viable product (MVP). We made a brief [video screencast](https://www.youtube.com/watch?v=6FK8fXuefZQ) of this demo.
 
 
 # Who We Help
