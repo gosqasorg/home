@@ -69,6 +69,16 @@ Concurrent to the software roadmap, we also need "social developments" which are
 * Developing a culture of authentiacing quality assurance tester identity.
 * Developing best practices that make fraud impractically difficult.
 
+
+# A Note on Our Trademarks
+
+Although all of our code is open-source, you may not user our trademarkes without written permission.
+Our trademarks include:
+1. The word GOSQAS
+2. The term "Global Open Source Quality Assurance System"
+3. The "purple hands" logo
+4. The word-ard GOSQAS with the "purple hands" symbol in the letter O.
+
 # Licenses
 
 Unless otherwise labelled, everything in the repo is licensed under the [Public Invention License Guidelines](https://github.com/PubInv/PubInv-License-Guidelines), which specifies different licenses for different kinds of matter:
