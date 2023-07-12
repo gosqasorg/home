@@ -98,4 +98,5 @@ Regulated Medical Devices | [CERN Open Hardware Licence Version 2 - Strongly Rec
 
 # Our Partners
 
-[PartnerLogos_2.0.pdf](https://github.com/gosqasorg/home/files/12025096/PartnerLogos_2.0.pdf)
+![PartnerLogos_2 0 (1)](https://github.com/gosqasorg/home/assets/64275888/aa0e2b2b-e7b0-4ded-b239-1f93683677a5)
+
