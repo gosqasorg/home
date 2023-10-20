@@ -4,7 +4,7 @@ This is the starting place fo the GOSQAS (GAHS-kwahs) system. GOSQAS and related
 
 The Global Open Source Quality Assurance System (GOSQAS) was formed to promote trust in open source medical devices and supplies. GOSQAS believes that increasing transparency around the quality and safety of these devices is necessary for global acceptance. To achieve this, GOSQAS has developed a “Trust Through Transparency'' (TTT) approach to ensure the safety and efficacy of medical devices made from open source designs. This approach includes a GOSQAS seal with QR codes for device information, Unique Device Identifiers, and a Provenance system to track the complete manufacture and transport history of the device.
 
-The first tool produced by GOSQAS is called Global Distributed Tracking (GDT), which is the system discussed here.
+The first tool produced by GOSQAS is called Global Distributed Tracking (GDT), which is the system discussed here. GDT is completely free-of-charge, as well as free software.
 
 # Functional Demo
 
@@ -68,7 +68,7 @@ GOSQAS now offer global trade item numbers under its “unbrand” and universal
 forge.
 
 ## Phase 4 - Cryptographically Strong Provenance, Q3, 2023 - PARTIAL
-GOSQAS now offers cryptographically strong provenance records and an easy ability to add to the provenance records. With a seal-in-hand and access to the internet, the key holder can add to the provenance record at no cost and little expense in time. There are up to 10,000 makers and manufacturers using the GOSQAS seal.
+GOSQAS now offers cryptographically strong provenance records and an easy ability to add to the provenance records. With a seal-in-hand and access to the internet, the key holder can add to the provenance record at no cost and little expense in time. 
 
 ## Phase 5 - Expanding Usage, Q1, 2024 - UNDERWAY
 In phase 5, the GOSQAS system is maturing and the number of users is increasing. The GOSQAS seal is a visually recognized seal of quality worldwide. GOSQAS fights against counterfeits. Possibly decentralization of the database becomes advantageous.
