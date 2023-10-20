@@ -4,6 +4,8 @@ This is the starting place fo the GOSQAS (GAHS-kwahs) system. GOSQAS and related
 
 The Global Open Source Quality Assurance System (GOSQAS) was formed to promote trust in open source medical devices and supplies. GOSQAS believes that increasing transparency around the quality and safety of these devices is necessary for global acceptance. To achieve this, GOSQAS has developed a “Trust Through Transparency'' (TTT) approach to ensure the safety and efficacy of medical devices made from open source designs. This approach includes a GOSQAS seal with QR codes for device information, Unique Device Identifiers, and a Provenance system to track the complete manufacture and transport history of the device.
 
+The first tool produced by GOSQAS is called Global Distributed Tracking (GDT), which is the system discussed here.
+
 # Functional Demo
 
 On June 8th, @devhawk (Harry Pierson) wrote a [quick-and-dirty demo](https://github.com/gosqasorg/asset-provenance-tracking) that is almost a minimum viable product (MVP). We made a brief [video screencast](https://www.youtube.com/watch?v=6FK8fXuefZQ) of this demo.
@@ -14,6 +16,16 @@ The Provenance system allows anyone with a device to trace the provenance and ad
 
 You may wish to watch this video of a talk we recently delivered at FOSDEM'23 introducing the concept:
 [![Screen Shot 2023-02-09 at 12 35 15 PM](https://user-images.githubusercontent.com/5296671/217906194-c8b240d1-038c-4da3-a633-cbf5306b1877.png)](https://ftp.osuosl.org/pub/fosdem/2023/AW1.120/publiccode_dpg_qa_emergency_supplies.webm)
+
+# Real World Use Cases
+
+Here are some real-world use cases that may show the versatility of the GDT provenance tracking system:
+* Glia [Stethoscope](https://gosqas.org/provenance/JpTWM818HuBbvvsZFQmYQA) 
+* Live Demo: [Nasogastric Tubes](https://gosqas.org/provenance/AkFBdE7GNHHQQVnsdPjegR) 
+* Oxygen Concentrator [Maintenance](https://gosqas.org/provenance/65UFxsaUtfM3WbmHr4o7Ch)
+* Corsi Box [Construction](https://gosqas.org/provenance/VfPLp8T6DhtzKd2nz93fFJ)
+
+As an exercise, try to think how you would use GDT for your own work!
 
 # Drafts of Technical Papers
 
