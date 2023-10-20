@@ -63,17 +63,14 @@ Makers self assert that they have executed these procedures.
 The development team is just beginning encryption, and all data is purely self asserted, 
 but we have made it easier for makers to print a seal. We attempt to run a small test with cottage manufacturers and buyers using provenance tracking.
 
-## Phase 3 - Encrypted Provenance, Q2, 2023 - DONE(ISH)
+## Phase 3 - Encrypted Provenance, Q2, 2023 - DONE
 GOSQAS now offer global trade item numbers under its “unbrand” and universal barcodes. The item now participates in the global trade identification number system. Someone may verify this number, and learn that at least the maker is a participant in the alliance. Records are now encrypted and difficult to 
 forge.
 
-## Phase 4 - Cryptographically Strong Provenance, Q3, 2023
+## Phase 4 - Cryptographically Strong Provenance, Q3, 2023 - PARTIAL
 GOSQAS now offers cryptographically strong provenance records and an easy ability to add to the provenance records. With a seal-in-hand and access to the internet, the key holder can add to the provenance record at no cost and little expense in time. There are up to 10,000 makers and manufacturers using the GOSQAS seal.
 
-## Phase 5 - Community Provenance Checking, Q4, 2023
-Although encrypted provenance supports privacy, it is possible for a decrypted message to be presented to the community for provenance checking. That is, the community can produce a sort of rating service for the provenance quality. This is likely to detect frauds and also raise the general expectation for provenances, further increasing the overall quality.
-
-## Phase 6 - Expanding Usage and Considering Blockchain, Q1, 2024
+## Phase 5 - Expanding Usage, Q1, 2024 - UNDERWAY
 In phase 5, the GOSQAS system is maturing and the number of users is increasing. The GOSQAS seal is a visually recognized seal of quality worldwide. GOSQAS fights against counterfeits. Possibly decentralization of the database becomes advantageous.
 
 ## Cultural Development Roadmap
@@ -93,6 +90,7 @@ Our trademarks include:
 2. The term "Global Open Source Quality Assurance System"
 3. The "purple hands" logo
 4. The word-ard GOSQAS with the "purple hands" symbol in the letter O.
+5. The phrase "Global Distributed Tracking"
 
 # Licenses
 
