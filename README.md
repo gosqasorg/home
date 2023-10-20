@@ -20,7 +20,8 @@ You may wish to watch this video of a talk we recently delivered at FOSDEM'23 in
 # Real World Use Cases
 
 Here are some real-world use cases that may show the versatility of the GDT provenance tracking system:
-* Glia [Stethoscope](https://gosqas.org/provenance/JpTWM818HuBbvvsZFQmYQA) 
+* Glia [Stethoscope](https://gosqas.org/provenance/JpTWM818HuBbvvsZFQmYQA)
+* [Oatmeal Raisin Cookies](https://gosqas.org/provenance/5gckf76pbwP77ri4qaSdck)
 * Live Demo: [Nasogastric Tubes](https://gosqas.org/provenance/AkFBdE7GNHHQQVnsdPjegR) 
 * Oxygen Concentrator [Maintenance](https://gosqas.org/provenance/65UFxsaUtfM3WbmHr4o7Ch)
 * Corsi Box [Construction](https://gosqas.org/provenance/VfPLp8T6DhtzKd2nz93fFJ)
