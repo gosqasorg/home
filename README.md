@@ -1,6 +1,6 @@
 # Global Open Source Quality Assurance System (GOSQAS)
 
-This is the starting place fo the GOSQAS (GAHS-kwahs) system. GOSQAS and related marks and logs are trademarks of the Global Assurance Quality Assurance System, a US partnership. All of our code is open source but we reserve all rights on our trademarks (see below.)
+This is the starting place fo the GOSQAS (GAHS-kwahs) system. GOSQAS and related marks and logs are trademarks of the Global Assurance Quality Assurance System, a US partnership registering as a corporation in California. All of our code is open source but we reserve all rights on our trademarks (see below.)
 
 The Global Open Source Quality Assurance System (GOSQAS) was formed to promote trust in open source medical devices and supplies. GOSQAS believes that increasing transparency around the quality and safety of these devices is necessary for global acceptance. To achieve this, GOSQAS has developed a “Trust Through Transparency'' (TTT) approach to ensure the safety and efficacy of medical devices made from open source designs. This approach includes a GOSQAS seal with QR codes for device information, Unique Device Identifiers, and a Provenance system to track the complete manufacture and transport history of the device.
 
