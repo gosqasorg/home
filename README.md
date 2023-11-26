@@ -1,8 +1,8 @@
 # Global Open Source Quality Assurance System (GOSQAS)
 
-This is the starting place fo the GOSQAS (GAHS-kwahs) system. GOSQAS and related marks and logs are trademarks of the Global Assurance Quality Assurance System, a US partnership registering as a corporation in California. All of our code is open source but we reserve all rights on our trademarks (see below.)
+This is the starting place for the GOSQAS (GAHS-kwahs) system. GOSQAS and related marks and logos are trademarks of the Global Assurance Quality Assurance System, a US partnership registering as a corporation in California. All of our code is open source but we reserve all rights on our trademarks (see below).
 
-The Global Open Source Quality Assurance System (GOSQAS) was formed to promote trust in open source medical devices and supplies. GOSQAS believes that increasing transparency around the quality and safety of these devices is necessary for global acceptance. To achieve this, GOSQAS has developed a “Trust Through Transparency'' (TTT) approach to ensure the safety and efficacy of medical devices made from open source designs. This approach includes a GOSQAS seal with QR codes for device information, Unique Device Identifiers, and a Provenance system to track the complete manufacture and transport history of the device.
+The Global Open Source Quality Assurance System (GOSQAS) was formed to promote trust in open source medical devices and supplies. GOSQAS believes that increasing transparency around the quality and safety of these devices is necessary for global acceptance. To achieve this, GOSQAS has developed a ''Trust Through Transparency'' (TTT) approach to ensure the safety and efficacy of medical devices made from open source designs. This approach includes a GOSQAS seal with QR codes for device information, Unique Device Identifiers, and a Provenance system to track the complete manufacture and transport history of the device.
 
 The first tool produced by GOSQAS is called Global Distributed Tracking (GDT), which is the system discussed here. GDT is completely free-of-charge, as well as free software.
 
@@ -37,13 +37,13 @@ Although very much a work in progress, we have written two long-form papers abou
 
 # Who We Help
 
-The GOSQAS asset provenance tracking system is independent and cooperative with regulatory bodies such as the FDA. For example, GOSQAS may be used by a distributor making regulated devices to implement some of it regulatory burdern with respect to market surveillance and recall. 
+The GOSQAS asset provenance tracking system is independent and cooperative with regulatory bodies such as the FDA. For example, GOSQAS may be used by a distributor making regulated devices to implement some of it regulatory burden with respect to market surveillance and recall. 
 Although it can be used by a large manufacturer to internally track assets, its main goal is to empower rapid, distributed manufacture, 
 perhaps in response to natural or man-made disasters. Such manufacturers may not have control of their ingoing or outgoing supply chain.
 An open, transparent system that makes it easy for them to document their work makes it more likely to have an impact.
 
 * Manufacturers get an easy opt-in way to make their devices more trustworthy by getting identifying keys and easily documenting manufacture and test.
-* Distributers have an easy way to maintain chain-of-custody and maintenance to increase trust for buyers.
+* Distributors have an easy way to maintain chain-of-custody and maintenance to increase trust for buyers.
 * Buyers get an easy way to check chain-of-custody to avoid counterfeits and understand quality transparently.
 
 
@@ -58,14 +58,14 @@ We now have a minimal but functional system. However, we could still use compete
 
 Concurrent to the software roadmap, we also need "social developments" which are not embodied in software. We need to develop a culture of:
 * Using standardized quality assurance tests and documenting them.
-* Sharing knowledge about how to evaluate a provenance
-* Developing a culture of authentiacing quality assurance tester identity.
+* Sharing knowledge about how to evaluate a provenance.
+* Developing a culture of authenticating quality assurance tester identity.
 * Developing best practices that make fraud impractically difficult.
 
 
 # A Note on Our Trademarks
 
-Although all of our code is open-source, you may not user our trademarkes without written permission.
+Although all of our code is open-source, you may not use our trademarks without written permission.
 Our trademarks include:
 1. The word GOSQAS
 2. The term "Global Open Source Quality Assurance System"
@@ -75,7 +75,7 @@ Our trademarks include:
 
 # Licenses
 
-Unless otherwise labelled, everything in the repo is licensed under the [Public Invention License Guidelines](https://github.com/PubInv/PubInv-License-Guidelines), which specifies different licenses for different kinds of matter:
+Unless otherwise labeled, everything in the repo is licensed under the [Public Invention License Guidelines](https://github.com/PubInv/PubInv-License-Guidelines), which specifies different licenses for different kinds of matter:
 
 Material | License
 ------------ | -------------
