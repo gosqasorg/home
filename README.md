@@ -92,3 +92,8 @@ Regulated Medical Devices | [CERN Open Hardware Licence Version 2 - Strongly Rec
 
 ![PartnerLogos_2 0 (1)](https://github.com/gosqasorg/home/assets/64275888/aa0e2b2b-e7b0-4ded-b239-1f93683677a5)
 
+# Contributing
+
+This is a (mostly) volunteer effort and we need your help. We are organizing volunteers at the [main working repo](https://github.com/gosqasorg/asset-provenance-tracking), please go there and see the Contributing
+section of the README, where you will see how to email us directly.
+
