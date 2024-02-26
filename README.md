@@ -14,9 +14,6 @@ On June 8th, @devhawk (Harry Pierson) wrote a [quick-and-dirty demo](https://git
 # Features
 The GDT system allows anyone with a device to trace the provenance and add to it using a simple website. The Seal provides a quick visual impression of the top certifications, and the Key is used to decode the entire provenance. GOSQAS is compatible with existing regulatory bodies, not a competitor, and supports the labeling and tracking of devices and support for decentralized additive manufacturing. GOSQAS will defend marks and logos legally in order to avoid confusion but will be fiercely open in its technology. The GOSQAS system will be implemented in phases, starting with a Maker’s Mark, self-asserted quality, Global Trade Item Number, cryptographically strong provenance, and community provenance checking. This will lead to the GOSQAS seal becoming a visually recognized seal of quality worldwide.
 
-You may wish to watch this video of a talk we recently delivered at FOSDEM'23 introducing the concept:
-[![Screen Shot 2023-02-09 at 12 35 15 PM](https://user-images.githubusercontent.com/5296671/217906194-c8b240d1-038c-4da3-a633-cbf5306b1877.png)](https://ftp.osuosl.org/pub/fosdem/2023/AW1.120/publiccode_dpg_qa_emergency_supplies.webm)
-
 # Real World Use Cases
 
 Here are some real-world use cases that may show the versatility of the GDT provenance tracking system:
