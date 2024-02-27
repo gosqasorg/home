@@ -19,7 +19,7 @@ The GDT system allows anyone with a device to trace the provenance and add to it
 # Real World Use Cases
 
 Here are some real-world use cases that may show the versatility of the GDT provenance tracking system:
-* Glia [Stethoscope](https://gosqas.org/provenance/JpTWM818HuBbvvsZFQmYQA)
+* Glia [Otoschope](https://gosqas.org/provenance/JpTWM818HuBbvvsZFQmYQA)
 * [Oatmeal Raisin Cookies](https://gosqas.org/provenance/5gckf76pbwP77ri4qaSdck)
 * Live Demo: [Nasogastric Tubes](https://gosqas.org/provenance/AkFBdE7GNHHQQVnsdPjegR) 
 * Oxygen Concentrator [Maintenance](https://gosqas.org/provenance/65UFxsaUtfM3WbmHr4o7Ch)
