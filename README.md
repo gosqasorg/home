@@ -96,3 +96,6 @@ Regulated Medical Devices | [CERN Open Hardware Licence Version 2 - Strongly Rec
 This is a (mostly) volunteer effort and we need your help. We are organizing volunteers at the [main working repo](https://github.com/gosqasorg/asset-provenance-tracking), please go there and see the Contributing
 section of the README, where you will see how to email us directly.
 
+Contributors will be expected to sign our [Contributor License Agreement (CLA)](https://github.com/gosqasorg/home/blob/main/CONTRIBUTOR%20LICENSE%20AGREEMENT.md) based on a template created by the Free Software Foundation Europe which will keep your contributions forever free.
+
+
