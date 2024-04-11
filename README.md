@@ -1,10 +1,8 @@
 # Global Open Source Quality Assurance System (GOSQAS)
 
-This is the starting place for the GOSQAS (GAHS-kwahs) system. GOSQAS and related marks and logos are trademarks of the Global Assurance Quality Assurance System, a US partnership registering as a corporation in California. All of our code is open source but we reserve all rights on our trademarks (see below).
+This is the starting place for the GOSQAS (GAHS-kwahs) system. GOSQAS and related marks and logos are trademarks of the Global Assurance Quality Assurance System, a US partnership registering as a 501(c)3 in California. All of our code is open source but we reserve all rights on our trademarks (see below).
 
-The Global Open Source Quality Assurance System (GOSQAS) was formed to promote trust in open source medical devices and supplies. GOSQAS believes that increasing transparency around the quality and safety of these devices is necessary for global acceptance. To achieve this, GOSQAS has developed a ''Trust Through Transparency'' (TTT) approach to ensure the safety and efficacy of medical devices made from open source designs. This approach includes a GOSQAS seal with QR codes for device information, Unique Device Identifiers, and a Provenance system to track the complete manufacture and transport history of the device.
-
-The first tool produced by GOSQAS is called Global Distributed Tracking (GDT), which is the system discussed here. GDT is completely free-of-charge, as well as free software.
+The Global Open Source Quality Assurance System (GOSQAS) provides the opportunity to create truthful, transparent documentation via our open source provenance tracker, Global Distributed Tracking (GDT), the product discussed here. Designed specifically for low-resource settings, GDT allows anyone with simple website access to securely record their project data. Our development philosophy of “Trust Through Transparency '' (TTT) encourages better global communication within diverse communities- to include humanitarian response, open source hardware, and scientific research. GDT is completely free-to-use, in addition to being free and open source software.
 
 # Functional Demo
 
