@@ -23,7 +23,8 @@ We created a science experiment based on community engagement by posting a GDT Q
 
 From January 2024 to April 4, 2024, 37 thirty-seven records (twenty of which are photos) have been documented in the GDT key. 
 This experiment has inspired the development of additional GDT features and will hopefully encourage citizen science fans to use GDT for their data capture needs.
-![image2](https://github.com/gosqasorg/home/assets/5296671/dc309056-7434-4708-a020-fa1d9087a369)
+![image1](https://github.com/gosqasorg/home/assets/5296671/2fe2a7d0-3967-4a35-b20c-b0e929fdd778)
+
 
 
 ## Other Use Cases
