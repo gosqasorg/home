@@ -16,7 +16,19 @@ The GDT system allows anyone with a device to trace the provenance and add to it
 
 # Real World Use Cases
 
-Here are some real-world use cases that may show the versatility of the GDT provenance tracking system:
+## Citizen Science: Turtles
+
+We created a science experiment based on community engagement by posting a GDT QR code near a pond. The sign asked passersby to scan the QR code and input the number of turtles they saw basking outside the water. 
+![TurtleSign](https://github.com/gosqasorg/home/assets/5296671/a4be3d73-da64-441f-9f3f-b60530db4daa)
+
+From January 2024 to April 4, 2024, 37 thirty-seven records (twenty of which are photos) have been documented in the GDT key. 
+This experiment has inspired the development of additional GDT features and will hopefully encourage citizen science fans to use GDT for their data capture needs.
+![image2](https://github.com/gosqasorg/home/assets/5296671/dc309056-7434-4708-a020-fa1d9087a369)
+
+
+## Other Use Cases
+
+Here are some other real-world use cases that may show the versatility of the GDT provenance tracking system:
 * Glia [Otoscope](https://gosqas.org/provenance/JpTWM818HuBbvvsZFQmYQA)
 * [Oatmeal Raisin Cookies](https://gosqas.org/provenance/5gckf76pbwP77ri4qaSdck)
 * Live Demo: [Nasogastric Tubes](https://gosqas.org/provenance/AkFBdE7GNHHQQVnsdPjegR) 
