@@ -63,8 +63,8 @@ We have a functional system and actively seek programming volunteers for the fol
 
 * Hierarchical container system
 * Notification system development
-* Security/zero-knowledge encryption proof
-* API
+* Security/zero-knowledge encryption proof/testing
+* Documenting our API to empower developers to make 3rd party apps
 
 # CULTURAL DEVELOPMENT ROADMAP
 
@@ -91,23 +91,12 @@ Although all of our code is open-source, you may not use our trademarks without 
 
 This is free-libre open-source softare released under the GNU Affero General Public License (AGPL). You are free to implement our software either for a fee or not, as long as you share your improvements back as required by the AGPL and you do not violate our trademarks.
 
-
-
-
 # CONTRIBUTING
 
 This is a (mostly) volunteer effort and we need your help. We are organizing volunteers at the [main working repo](https://github.com/gosqasorg/asset-provenance-tracking), please go there and see the Contributing
 section of the README, where you will see how to email us directly.
 
 Contributors will be expected to sign our [Contributor License Agreement (CLA)](https://github.com/gosqasorg/home/blob/main/CONTRIBUTOR%20LICENSE%20AGREEMENT.md) based on a template created by the Free Software Foundation Europe which will keep your contributions forever free.
-
-
-
-
-
-
-
-
 
 <!--
 # Licenses
