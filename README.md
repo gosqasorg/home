@@ -1,8 +1,66 @@
-# Global Open Source Quality Assurance System (GOSQAS)
+# GOSQAS
 
-This is the starting place for the GOSQAS (GAHS-kwahs) system. GOSQAS and related marks and logos are trademarks of the Global Assurance Quality Assurance System, a US partnership registering as a 501(c)3 in California. All of our code is open source but we reserve all rights on our trademarks (see below).
+This is the starting place for the GOSQAS (GAHS-kwahs), Global Open Source Quality Assurance System. GOSQAS and related marks and logos are trademarks of the Global Assurance Quality Assurance System, a US-based project fiscally sponsored by Public Invention. Our development philosophy of “Trust Through Transparency '' (TTT) encourages better global communication within diverse communities- including humanitarian response, open source hardware, and scientific research. 
 
-The Global Open Source Quality Assurance System (GOSQAS) provides the opportunity to create truthful, transparent documentation via our open source provenance tracker, Global Distributed Tracking (GDT), the product discussed here. Designed specifically for low-resource settings, GDT allows anyone with simple website access to securely record their project data. Our development philosophy of “Trust Through Transparency '' (TTT) encourages better global communication within diverse communities- to include humanitarian response, open source hardware, and scientific research. GDT is completely free-to-use, in addition to being free and open source software.
+GOSQAS has developed Global Distributed Tracking (GDT), a software platform that provides the opportunity to create truthful, transparent documentation via an uneditable, append-only record history. Designed specifically for low-resource settings, GDT does not require a login or download and is completely free to use, in addition to being free and open source software. All our code is open source, but we reserve all rights on our trademarks (see below).
+
+
+# FEATURES
+GOSQAS is compatible with existing regulatory bodies, not a competitor, and supports the development of transparency, accountability, and quality assurance for humanitarian purposes. GOSQAS will legally defend marks and logos but is fiercely open in its technology. 
+
+Global Distributed Tracking provides transparent insight into the entire life cycle of data stored within its system. It fights counterfeiting by allowing a complete object chain of custody to be constructed. It allows anyone to create, trace, and amend a record via a simple website. The novel use of old-school cryptography avoids requiring people in the global supply chain to authenticate, thus creating maximum convenience for everyone handling an object while also avoiding the sharing of personal data. 
+
+
+# TECHNICAL PAPERS
+https://github.com/gosqasorg/home?tab=readme-ov-file#drafts-of-technical-papers
+
+Our technical documents are here:
+One Pager
+Use Case
+Regulatory Compliance Analysis   
+
+# WHO WE HELP
+GOSQAS and Global Distributed Tracking (GDT) are independent and cooperative with regulatory bodies such as the FDA. For example, GDT may be used by a distributor making regulated devices to document regulatory requirements with respect to market surveillance and recall. While it can be used by a large manufacturer to track objects internally, GDT can empower rapid, distributed manufacturing, perhaps in response to natural or man-made disasters. Such manufacturers may not have control of their incoming or outgoing supply chain. An open, transparent system that allows easy documentation increases the likelihood of end-user engagement. 
+
+Manufacturers have an easy opt-in pathway to show device trustworthiness via GDT records and keys. 
+Distributors have an easy opt-in pathway for chain-of-custody maintenance, which increases buyer trust.
+Buyers may easily check chain-of-custody to avoid counterfeits and understand quality assurance transparency.
+
+
+
+
+# ROADMAP FOR SOFTWARE AND FEATURES
+
+We now have a functional system and actively seek programming volunteers for the following features. 
+
+
+Hierarchical container system
+Notification system development
+
+
+
+
+# CULTURAL DEVELOPMENT ROADMAP
+
+Concurrent with the software roadmap, we encourage "social developments" which are not embodied in software. We are developing cultures of:
+
+Using and documenting standardized quality assurance tests.
+Sharing knowledge about record history evaluation.
+Authenticating quality assurance tester identity.
+Best practices that make fraud impractically difficult.
+
+
+# A NOTE ON OUR TRADEMARKS
+
+Although all of our code is open-source, you may not use our trademarks without written permission. Our trademarks include:
+
+* The word GOSQAS
+* The term "Global Open Source Quality Assurance System"
+* The "purple hand with sphere" logo
+* Any word art with GOSQAS, GDT, and the "purple hand with sphere" symbol.
+* The phrases "Global Distributed Tracking" and “Global Distributed Tracking (GDT)”
+* The acronym “GDT”
+
 
 # Functional Demo
 
