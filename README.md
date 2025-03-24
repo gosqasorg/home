@@ -12,12 +12,15 @@ Global Distributed Tracking provides transparent insight into the entire life cy
 
 
 # TECHNICAL PAPERS
-https://github.com/gosqasorg/home?tab=readme-ov-file#drafts-of-technical-papers
+
+Although very much a work in progress, we have written two long-form papers about GOSQAS and the Asset Provenance Tracking system. We invite you to read and even comment on these papers, but understand that they are rough drafts at the moment.
+1. [How the Global Open Source Quality Assurance System (GOSQAS) will Promote Global Trust in Open Source for Medical Devices and Supplies](https://docs.google.com/document/d/1CkJ3Tz7I6DO1TV4CgKxCUxyvJEqqtBEu/edit?usp=sharing&ouid=118089335094003856513&rtpof=true&sd=true) is our basic introductory document.
+1. [Provenance Tracking For Low-to-Medium Value Distributed Manufacture](https://docs.google.com/document/d/1zEo3x8z_9rtaa8uSj5YuizLrt8Tz5z_DJQiyNo9J6K8/edit?usp=sharing)
 
 Our technical documents are here:
-One Pager
-Use Case
-Regulatory Compliance Analysis   
+* [One Pager](https://github.com/gosqasorg/home/blob/main/GDT%20One%20Pager.pdf)
+* [Use Case](https://github.com/gosqasorg/home/blob/main/GOSQAS%20Use%20Case.pdf)
+* [Regulatory Compliance Analysis](https://github.com/gosqasorg/home/blob/main/GOSQAS%20Regulatory%20Compliance%20Analysis.pdf) 
 
 # WHO WE HELP
 GOSQAS and Global Distributed Tracking (GDT) are independent and cooperative with regulatory bodies such as the FDA. For example, GDT may be used by a distributor making regulated devices to document regulatory requirements with respect to market surveillance and recall. While it can be used by a large manufacturer to track objects internally, GDT can empower rapid, distributed manufacturing, perhaps in response to natural or man-made disasters. Such manufacturers may not have control of their incoming or outgoing supply chain. An open, transparent system that allows easy documentation increases the likelihood of end-user engagement. 
@@ -34,8 +37,8 @@ Buyers may easily check chain-of-custody to avoid counterfeits and understand qu
 We now have a functional system and actively seek programming volunteers for the following features. 
 
 
-Hierarchical container system
-Notification system development
+* Hierarchical container system
+* Notification system development
 
 
 
@@ -44,10 +47,10 @@ Notification system development
 
 Concurrent with the software roadmap, we encourage "social developments" which are not embodied in software. We are developing cultures of:
 
-Using and documenting standardized quality assurance tests.
-Sharing knowledge about record history evaluation.
-Authenticating quality assurance tester identity.
-Best practices that make fraud impractically difficult.
+* Using and documenting standardized quality assurance tests.
+* Sharing knowledge about record history evaluation.
+* Authenticating quality assurance tester identity.
+* Best practices that make fraud impractically difficult.
 
 
 # A NOTE ON OUR TRADEMARKS
