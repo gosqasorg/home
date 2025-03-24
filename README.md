@@ -31,9 +31,6 @@ Manufacturers have an easy opt-in pathway to show device trustworthiness via GDT
 Distributors have an easy opt-in pathway for chain-of-custody maintenance, which increases buyer trust.
 Buyers may easily check chain-of-custody to avoid counterfeits and understand quality assurance transparency.
 
-
-
-
 # ROADMAP FOR SOFTWARE AND FEATURES
 
 We now have a functional system and actively seek programming volunteers for the following features. 
@@ -64,13 +61,51 @@ Although all of our code is open-source, you may not use our trademarks without 
 * The phrases "Global Distributed Tracking" and “Global Distributed Tracking (GDT)”
 * The acronym “GDT”
 
+# LICENSE
+
+This is free-libre open-source softare released under the GNU Affero General Public License (AGPL). You are free to implement our software either for a fee or not, as long as you share your improvements back as required by the AGPL and you do not violate our trademarks.
 
 # FUNCTIONAL DEMO
 
-On June 8th, @devhawk (Harry Pierson) wrote a [quick-and-dirty demo](https://github.com/gosqasorg/asset-provenance-tracking) that he quickly developed into fully functional [minimum viable product (MVP)](https://github.com/gosqasorg/asset-provenance-tracking). We made a brief [video screencast](https://www.youtube.com/watch?v=6FK8fXuefZQ) of this demo.
+We made a brief of the product: [video screencast](https://www.youtube.com/watch?v=6FK8fXuefZQ) of this demo.
 
 You may wish to watch this video of a talk we recently delivered at FOSDEM'23 introducing the concept:
 [![Screen Shot 2023-02-09 at 12 35 15 PM](https://user-images.githubusercontent.com/5296671/217906194-c8b240d1-038c-4da3-a633-cbf5306b1877.png)](https://mirrors.dotsrc.org/fosdem/2023/AW1.120/publiccode_dpg_qa_emergency_supplies.webm)
+
+
+# CONTRIBUTING
+
+This is a (mostly) volunteer effort and we need your help. We are organizing volunteers at the [main working repo](https://github.com/gosqasorg/asset-provenance-tracking), please go there and see the Contributing
+section of the README, where you will see how to email us directly.
+
+Contributors will be expected to sign our [Contributor License Agreement (CLA)](https://github.com/gosqasorg/home/blob/main/CONTRIBUTOR%20LICENSE%20AGREEMENT.md) based on a template created by the Free Software Foundation Europe which will keep your contributions forever free.
+
+## Other Use Cases
+
+Here are some other real-world use cases that may show the versatility of the GDT provenance tracking system:
+* Glia [Otoscope](https://gosqas.org/provenance/JpTWM818HuBbvvsZFQmYQA)
+* [Oatmeal Raisin Cookies](https://gosqas.org/provenance/5gckf76pbwP77ri4qaSdck)
+* Live Demo: [Nasogastric Tubes](https://gosqas.org/provenance/AkFBdE7GNHHQQVnsdPjegR) 
+* Oxygen Concentrator [Maintenance](https://gosqas.org/provenance/65UFxsaUtfM3WbmHr4o7Ch)
+* Corsi Box [Construction](https://gosqas.org/provenance/VfPLp8T6DhtzKd2nz93fFJ)
+
+As an exercise, try to think how you would use GDT for your own work!
+
+<!--
+
+# Real World Use Cases
+
+## Citizen Science: Turtles
+
+We created a science experiment based on community engagement by posting a GDT QR code near a pond. The sign asked passersby to scan the QR code and input the number of turtles they saw basking outside the water. 
+![TurtleSign](https://github.com/gosqasorg/home/assets/5296671/a4be3d73-da64-441f-9f3f-b60530db4daa)
+
+From January 2024 to April 4, 2024, 37 thirty-seven records (twenty of which are photos) have been documented in the GDT key. 
+This experiment has inspired the development of additional GDT features and will hopefully encourage citizen science fans to use GDT for their data capture needs.
+![image1](https://github.com/gosqasorg/home/assets/5296671/2fe2a7d0-3967-4a35-b20c-b0e929fdd778)
+
+-->
+
 
 <!--
 # Licenses
@@ -93,38 +128,3 @@ Regulated Medical Devices | [CERN Open Hardware Licence Version 2 - Strongly Rec
 ![PartnerLogos_2 0 (1)](https://github.com/gosqasorg/home/assets/64275888/aa0e2b2b-e7b0-4ded-b239-1f93683677a5)
 
 -->
-
-# Contributing
-
-This is a (mostly) volunteer effort and we need your help. We are organizing volunteers at the [main working repo](https://github.com/gosqasorg/asset-provenance-tracking), please go there and see the Contributing
-section of the README, where you will see how to email us directly.
-
-Contributors will be expected to sign our [Contributor License Agreement (CLA)](https://github.com/gosqasorg/home/blob/main/CONTRIBUTOR%20LICENSE%20AGREEMENT.md) based on a template created by the Free Software Foundation Europe which will keep your contributions forever free.
-
-<!--
-
-# Real World Use Cases
-
-## Citizen Science: Turtles
-
-We created a science experiment based on community engagement by posting a GDT QR code near a pond. The sign asked passersby to scan the QR code and input the number of turtles they saw basking outside the water. 
-![TurtleSign](https://github.com/gosqasorg/home/assets/5296671/a4be3d73-da64-441f-9f3f-b60530db4daa)
-
-From January 2024 to April 4, 2024, 37 thirty-seven records (twenty of which are photos) have been documented in the GDT key. 
-This experiment has inspired the development of additional GDT features and will hopefully encourage citizen science fans to use GDT for their data capture needs.
-![image1](https://github.com/gosqasorg/home/assets/5296671/2fe2a7d0-3967-4a35-b20c-b0e929fdd778)
-
--->
-
-
-## Other Use Cases
-
-Here are some other real-world use cases that may show the versatility of the GDT provenance tracking system:
-* Glia [Otoscope](https://gosqas.org/provenance/JpTWM818HuBbvvsZFQmYQA)
-* [Oatmeal Raisin Cookies](https://gosqas.org/provenance/5gckf76pbwP77ri4qaSdck)
-* Live Demo: [Nasogastric Tubes](https://gosqas.org/provenance/AkFBdE7GNHHQQVnsdPjegR) 
-* Oxygen Concentrator [Maintenance](https://gosqas.org/provenance/65UFxsaUtfM3WbmHr4o7Ch)
-* Corsi Box [Construction](https://gosqas.org/provenance/VfPLp8T6DhtzKd2nz93fFJ)
-
-As an exercise, try to think how you would use GDT for your own work!
-
