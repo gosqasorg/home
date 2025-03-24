@@ -80,7 +80,7 @@ Contributors will be expected to sign our [Contributor License Agreement (CLA)](
 
 ## Other Use Cases
 
-Here are some other real-world use cases that may show the versatility of the GDT provenance tracking system:
+Here are some other real-world use cases that may show the versatility of the GDT record history system:
 * Glia [Otoscope](https://gosqas.org/provenance/JpTWM818HuBbvvsZFQmYQA)
 * [Oatmeal Raisin Cookies](https://gosqas.org/provenance/5gckf76pbwP77ri4qaSdck)
 * Live Demo: [Nasogastric Tubes](https://gosqas.org/provenance/AkFBdE7GNHHQQVnsdPjegR) 
