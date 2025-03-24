@@ -33,7 +33,7 @@ Buyers may easily check chain-of-custody to avoid counterfeits and understand qu
 
 # ROADMAP FOR SOFTWARE AND FEATURES
 
-We now have a functional system and actively seek programming volunteers for the following features. 
+We have a functional system and actively seek programming volunteers for the following features. 
 
 * Hierarchical container system
 * Notification system development
