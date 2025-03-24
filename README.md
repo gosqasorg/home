@@ -39,9 +39,8 @@ We now have a functional system and actively seek programming volunteers for the
 
 * Hierarchical container system
 * Notification system development
-
-
-
+* Security/zero-knowledge encryption proof
+* API
 
 # CULTURAL DEVELOPMENT ROADMAP
 
