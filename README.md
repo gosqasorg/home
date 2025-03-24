@@ -4,7 +4,7 @@ This is the starting place for the GOSQAS (GAHS-kwahs), Global Open Source Quali
 
 GOSQAS has developed Global Distributed Tracking (GDT), a software platform that provides the opportunity to create truthful, transparent documentation via an uneditable, append-only record history. Designed specifically for low-resource settings, GDT does not require a login or download and is completely free to use, in addition to being free and open source software. All our code is open source, but we reserve all rights on our trademarks (see below).
 
-The applications is live, try it now! [https://gosqas.org/](https://gosqas.org/)
+The application is live, try it now! [https://gosqas.org/](https://gosqas.org/)
 
 
 # FEATURES
