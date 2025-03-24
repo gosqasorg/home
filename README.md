@@ -67,8 +67,6 @@ This is free-libre open-source softare released under the GNU Affero General Pub
 
 # FUNCTIONAL DEMO
 
-We made a brief of the product: [video screencast](https://www.youtube.com/watch?v=6FK8fXuefZQ) of this demo.
-
 You may wish to watch this video of a talk we recently delivered at FOSDEM'23 introducing the concept:
 [![Screen Shot 2023-02-09 at 12 35 15 PM](https://user-images.githubusercontent.com/5296671/217906194-c8b240d1-038c-4da3-a633-cbf5306b1877.png)](https://mirrors.dotsrc.org/fosdem/2023/AW1.120/publiccode_dpg_qa_emergency_supplies.webm)
 
