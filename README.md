@@ -98,6 +98,11 @@ section of the README, where you will see how to email us directly.
 
 Contributors will be expected to sign our [Contributor License Agreement (CLA)](https://github.com/gosqasorg/home/blob/main/CONTRIBUTOR%20LICENSE%20AGREEMENT.md) based on a template created by the Free Software Foundation Europe which will keep your contributions forever free.
 
+# Our Partners
+
+![PartnerLogos_2 0 (1)](https://github.com/gosqasorg/home/assets/64275888/aa0e2b2b-e7b0-4ded-b239-1f93683677a5)
+
+
 <!--
 # Licenses
 
@@ -114,8 +119,5 @@ Freehand Graphic Art | [Creative Commons Attribution-ShareAlike 4.0 Internationa
 Diagramatic Graphic Art | [Creative Commons Attribution-ShareAlike 4.0 International License (CC-BY-SA)](https://creativecommons.org/licenses/by-sa/4.0/)
 Regulated Medical Devices | [CERN Open Hardware Licence Version 2 - Strongly Reciprocal](https://ohwr.org/cern_ohl_s_v2.txt) or [Public Invention Sunlight Regulatory Agreement (WIP)](https://github.com/PubInv/RegulatorySunlight)
 
-# Our Partners
-
-![PartnerLogos_2 0 (1)](https://github.com/gosqasorg/home/assets/64275888/aa0e2b2b-e7b0-4ded-b239-1f93683677a5)
 
 -->
