@@ -35,14 +35,14 @@ This experiment has inspired the development of additional GDT features and will
 ![image1](https://github.com/gosqasorg/home/assets/5296671/2fe2a7d0-3967-4a35-b20c-b0e929fdd778)
 ## Other Use Cases
 
-Here are some other real-world use cases that may show the versatility of the GDT record history system:
-* Glia [Otoscope](https://gosqas.org/provenance/JpTWM818HuBbvvsZFQmYQA)
+Here are other real-world use cases demonstrating GDT versatility:
+* [How It Works](https://gosqas.org/how-it-works)
 * [Oatmeal Raisin Cookies](https://gosqas.org/provenance/5gckf76pbwP77ri4qaSdck)
 * Live Demo: [Nasogastric Tubes](https://gosqas.org/provenance/AkFBdE7GNHHQQVnsdPjegR) 
 * Oxygen Concentrator [Maintenance](https://gosqas.org/provenance/65UFxsaUtfM3WbmHr4o7Ch)
 * Corsi Box [Construction](https://gosqas.org/provenance/VfPLp8T6DhtzKd2nz93fFJ)
 
-As an exercise, try to think how you would use GDT for your own work!
+As an exercise, think how you would use GDT for your own work!
 
 # TECHNICAL PAPERS
 
