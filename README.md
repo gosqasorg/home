@@ -54,6 +54,7 @@ Our technical documents are here:
 * [One Pager](https://github.com/gosqasorg/home/blob/main/GDT%20One%20Pager.pdf)
 * [Use Case](https://github.com/gosqasorg/home/blob/main/GOSQAS%20Use%20Case.pdf)
 * [Regulatory Compliance Analysis](https://github.com/gosqasorg/home/blob/main/GOSQAS%20Regulatory%20Compliance%20Analysis.pdf) 
+* [Methods in Global Distributed Tracking for Class I Medical Devices](https://github.com/gosqasorg/home/blob/main/USING%20GDT%20FOR%20CLASS%20I%20MEDICAL%20DEVICES.pdf)
 
 
 
